@@ -1,0 +1,255 @@
+body
+{
+background-color:#a1d1e5;
+font-family: Tahoma, Geneva, sans-serif;
+}
+
+h1
+{
+color:#3333ff;
+text-align:center;
+}
+
+p.galtext
+{
+color:#3333ff;
+text-align:left;
+padding-left:200px;
+padding-right:200px;
+}
+
+.blue
+{
+color:#3333ff;
+}
+
+div.maindiv
+{
+width:935px;
+background-color:#a1d1e5;
+margin:auto;
+}
+
+div.navbar
+{
+background-color:white;
+border:1px solid black;
+}
+
+div.navbar img
+{
+margin:auto;
+}
+
+div.announce
+{
+background-color:white;
+border:1px solid black;
+border-top:none;
+padding:10px;
+}
+
+div.content
+{
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+width:913px;
+float:left;
+text-align:center;
+padding:10px;
+}
+
+div.contentfront
+{
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+width:710px;
+float:left;
+text-align:center;
+padding:10px;
+}
+
+div.content1
+{
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+width:913px;
+text-align:center;
+padding:10px;
+}
+
+div.contentgallery
+{
+width:933px;
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+float:left;
+text-align:center;
+}
+
+div.contenthistory
+{
+width:933px;
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+text-align:center;
+}
+
+div.contentsite
+{
+width:733px;
+background-color:white;
+border:1px solid black;
+text-align:center;
+padding-left:100px;
+padding-right:100px;
+}
+
+div.contentprimer
+{
+width:823px;
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+padding:55px;
+text-align:left;
+}
+
+div.contentbowl
+{
+width:823px;
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+padding:55px;
+text-align:left;
+}
+
+div.contentmentors
+{
+width:823px;
+background-color:white;
+border:1px solid black;
+border-top:none;
+height:auto;
+padding:55px;
+text-align:left;
+}
+
+div.contentsticker
+{
+width:733px;
+background-color:white;
+border:1px solid black;
+text-align:left;
+padding-top:20px;
+padding-left:100px;
+padding-right:100px;
+}
+
+div.contenttandem
+{
+width:823px;
+background-color:white;
+border:1px solid black;
+text-align:left;
+padding:55px;
+}
+
+div.contentchase
+{
+width:823px;
+background-color:#a1d1e5;
+border:0px solid black;
+padding:55px;
+}
+
+div.contentofficers
+{
+width:913px;
+background-color:white;
+border:1px solid black;
+text-align:left;
+padding:10px;
+}
+
+div.noticebar
+{
+width:182px;
+background-color:white;
+border:1px solid black;
+border-left:none;
+border-top:none;
+text-align:center;
+float:left;
+}
+
+div.newsbar
+{
+width:182px;
+background-color:white;
+padding:10px;
+border:1px solid black;
+border-left:none;
+border-top:none;
+text-align:center;
+float:left;
+}
+
+.ads
+{
+display:inline;
+text-align:center;
+}
+
+.ads img
+{
+width:150px;
+height:150px;
+border:1;
+margin-top:5px;
+margin-bottom:5px;
+margin-left:5px;
+margin-right:5px;
+}
+
+.ads a
+{
+width:160px;
+border:1px solid white;
+display:block;
+margin:auto;
+}
+
+.ads a:hover
+{
+background-color:#3366cc;
+border:1px solid white;
+}
+
+.content1 a
+{
+width:220px;
+border:1px solid white;
+display:block;
+margin:auto;
+}
+
+.content1 a:hover
+{
+background-color:#3366cc;
+border:1px solid white;
+}
+
